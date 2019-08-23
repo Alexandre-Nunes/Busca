@@ -12,4 +12,5 @@ Funcionalidade: Busca
         E informo os dados da busca
         Entao a busca é realizada com sucesso
     
+    Cenario Novo: Teste branch
     
